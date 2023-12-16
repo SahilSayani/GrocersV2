@@ -1,0 +1,17 @@
+<template>
+    <div>
+        <h1>404 Not Found</h1>
+        <p>The page you are looking for does not exist.</p>
+    </div>
+</template>
+
+<script>
+export default {
+    name: 'NotFound',
+    // Add any necessary component logic here
+}
+</script>
+
+<style>
+/* Add any necessary component styles here */
+</style>
